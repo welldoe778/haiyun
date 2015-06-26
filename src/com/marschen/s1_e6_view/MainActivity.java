@@ -15,6 +15,7 @@ public class MainActivity extends Activity {
 	private Button button;
 	int count = 0;
 	String name = "haiyun";
+	String nameString = "ting";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
